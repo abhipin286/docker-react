@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <code>src/App.js</code> and save to reload.
         <p>
-          I have changed the app text of App.js
+          Hi all, I have changed the app text of App.js
         </p>
         <a
           className="App-link"
@@ -23,5 +23,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
